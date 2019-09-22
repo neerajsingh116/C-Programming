@@ -1,0 +1,19 @@
+#include<stdio.h>
+#include<math.h>
+int main()
+{
+	
+	float dist,x1,x2,y1,y2;
+	printf("Enter X1 value");
+	scanf("%f",&x1);
+	printf("Enter X2 value");
+	scanf("%f",&x2);
+	printf("Enter Y1 value");
+	scanf("%f",&y1);                          //doubt in output
+	printf("Enter Y2 value");
+	scanf("%f",&y2);
+	
+	dist=((x2-x1)*(x2*x1))+((y2-y1)*(y2-y1));
+	printf("Distance between two point is %.4f\n",sqrt(dist));
+	return 0;
+}
