@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<math.h>
+int main()
+{
+	int a,b,c;
+	float x1,x2,s,s1;
+	printf("Enter value of a,b and c ");
+	scanf("%d %d %d",&a,&b,&c);
+	s=(b*b)-(4*a*c);
+	s1=sqrt(s);
+	x1=(-b+s1)/(2*a);
+    x2=(-b-s1)/(2*a);
+    
+    printf("Enter value x1 is %.5lf\n",x1);
+    printf("Enter value x2 is %.5lf\n",x2);
+}
