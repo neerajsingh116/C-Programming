@@ -7,3 +7,5 @@
 - [Greatest Among Three inputs](https://github.com/neerajsingh116/C-Programming/blob/master/Greatest_among_Three)
 - [Distance between two points](https://github.com/neerajsingh116/C-Programming/blob/master/Distance_between_two_points)
 - [Cal_YEAR_MONTH_DAYS](https://github.com/neerajsingh116/C-Programming/blob/master/Year_Week_Days)
+- [Time conversion sec-min-hrs](https://github.com/neerajsingh116/C-Programming/blob/master/Time_Conversion_Sec-min-hrs)
+- [Bhaskara formula](https://github.com/neerajsingh116/C-Programming/blob/master/Bhaskara_Formula)
