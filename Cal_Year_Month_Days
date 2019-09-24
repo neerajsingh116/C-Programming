@@ -1,0 +1,20 @@
+#include<stdio.h>
+int main()
+{
+	int yr,mon,days,i;
+	
+	printf("Enter the Input");
+	scanf("%d",&i);
+	
+	yr=i/365;
+	
+	i=i-(365*yr);
+	
+	mon=i/30;
+	
+	days=i-(mon*30);
+	
+	printf("Years:%d\n",yr);
+	printf("Months:%d\n",mon);
+    printf("Days:%d ",days);	
+}
