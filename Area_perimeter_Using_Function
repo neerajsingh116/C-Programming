@@ -1,0 +1,26 @@
+#include<stdio.h>
+int area();
+int perimeter();
+
+int main()
+{
+	area();
+	perimeter();
+}
+int area()
+{
+	int a,b;
+	printf("Enter Value Side of Square For Area Calculation:\n");
+	scanf("%d",&a);
+	b=a*a;
+	printf("Area of Square will be:%d\n",b);
+}
+int perimeter()
+{
+	
+	int a,b;
+	printf("Enter Value Side of Square for Perimeter calculation:\n");
+	scanf("%d",&a);
+	b=4*a;
+	printf("Perimeter of Square will be:%d\n",b);
+}
