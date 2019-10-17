@@ -1,0 +1,24 @@
+#include<stdio.h>
+int main()
+{
+add();	
+sub();
+}
+
+add()
+{
+	int a,b,sum;
+	printf("Enter value of a and b ");
+	scanf("%d %d",&a,&b);
+	sum=a+b;
+	printf("%d",sum);
+}
+
+sub()
+{
+	int a,b,sub;
+	printf("\nEnter the value of a and b");
+	scanf("%d %d",&a,&b);
+	sub=a-b;
+	printf("%d",sub);
+}
