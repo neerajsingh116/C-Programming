@@ -12,3 +12,4 @@
 - [Cost Estimation using if](https://github.com/neerajsingh116/C-Programming/blob/master/Use_of_if_for_estimating_cost)
 - [program that prints all even numbers between 1 and 50 (inclusive)](https://github.com/neerajsingh116/C-Programming/blob/master/Even_number)
 - [Finding Area and Perimeter through Fuctions](https://github.com/neerajsingh116/C-Programming/blob/master/Area_perimeter_Using_Function)
+- [TAKE SOMETHING RETURN SOMETHING](https://github.com/neerajsingh116/C-Programming/blob/master/TAKE%20SOMETHING%20RETURN%20SOMETHING)
