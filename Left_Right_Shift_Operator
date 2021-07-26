@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+	int a=5;
+	int b=7;
+	printf("After left shift by 2 the resultant will be %d\n",a<<2);
+	printf("After Right shift by 2 the resultant will be %d",b>>2);
+}
+
+//Output: 20 and 1
