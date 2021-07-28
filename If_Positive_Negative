@@ -1,0 +1,16 @@
+//Practice for IF Statements
+#include<stdio.h>
+int main()
+{
+	int Num;
+	printf("Please enter any Number");
+	scanf("%d",&Num);
+	if(Num>0)
+	{
+		printf("Number is positive");
+	}
+	if(Num<0)
+	{
+		printf("Number is negative");
+	}
+}
