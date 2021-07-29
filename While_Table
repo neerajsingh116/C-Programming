@@ -1,0 +1,14 @@
+//Printed Table using While
+#include<stdio.h>
+int main() 
+{
+	int num,i=1; // Initialization
+	printf("Enter the number whose Table you want to print");
+	scanf("%d",&num);
+	
+	while(i<=10) //Condition
+	{
+		printf("%d\n",i*num);
+		i++; //Flow
+	}
+}
