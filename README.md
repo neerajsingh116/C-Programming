@@ -19,3 +19,4 @@
 - [Left_Right_Shift](https://github.com/neerajsingh116/C-Programming/blob/master/Left_Right_Shift_Operator)
 - [While_table](https://github.com/neerajsingh116/C-Programming/blob/master/While_Table)
 - [Do_While_Table](https://github.com/neerajsingh116/C-Programming/blob/master/Do_While_Table)
+- [Nested_Loop](https://github.com/neerajsingh116/C-Programming/blob/master/Nested_loop)
