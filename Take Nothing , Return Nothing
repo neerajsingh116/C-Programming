@@ -1,0 +1,17 @@
+//Take Nothing , Return Nothing
+#include<stdio.h>
+//We can also declare function here void add(void) if we do so it will be called as Global Fuction Declaration and can be used by any function
+int main()
+{
+void add(void); //Function Declaration 
+add();
+}
+
+void add()
+{
+	int a,b,c;
+	printf("Enter two numbers:");
+	scanf("%d%d",&a,&b);
+	c=a+b;
+	printf("Sum is %d",c);
+}
