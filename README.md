@@ -22,3 +22,4 @@
 - [Nested_Loop](https://github.com/neerajsingh116/C-Programming/blob/master/Nested_loop)
 - [Goto](https://github.com/neerajsingh116/C-Programming/blob/master/Goto)
 - [Take Nothing Return Nothing](https://github.com/neerajsingh116/C-Programming/blob/master/Take%20Nothing%20%2C%20Return%20Nothing)
+- [TakeNothing_ReturnSomething](https://github.com/neerajsingh116/C-Programming/blob/master/TakeNothing_ReturnSomething)
