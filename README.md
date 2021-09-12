@@ -26,3 +26,4 @@
 - [Take Nothing Return Nothing](https://github.com/neerajsingh116/C-Programming/blob/master/Take%20Nothing%20%2C%20Return%20Nothing)
 - [Take Nothing Return Something](https://github.com/neerajsingh116/C-Programming/blob/master/TakeNothing_ReturnSomething)
 - [Take Nothing_ReturnSomething](https://github.com/neerajsingh116/C-Programming/blob/master/TakeNothing_ReturnSomething)
+- [Array_Sum_Average](https://github.com/neerajsingh116/C-Programming/blob/master/Array_Sum_Average)
